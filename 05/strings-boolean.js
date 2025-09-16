@@ -1,0 +1,13 @@
+var str = "Devendra Kumawat";
+console.log(str);
+var age = 25;
+var username = "Devendra Kumawat";
+var info = "My name is ".concat(username, " and age is ").concat(age);
+console.log(info);
+var num = 20;
+// var data:string = num.toString();
+var data2 = " " + num;
+var boolData = true;
+// var data3:string = boolData.toString();
+var data4 = " " + boolData;
+var item = true;
