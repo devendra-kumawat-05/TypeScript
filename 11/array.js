@@ -1,0 +1,13 @@
+var users = ["Devendra", "Aryan"];
+console.log(users);
+users.push("Ravi");
+users.push("Kavi");
+console.log(users);
+var mark = [1, 2, 3, 4, 5];
+console.log(mark);
+var mark2 = [1, 2, 3, 4, 5];
+console.log(mark2);
+var user2 = ["Devendra", "Aryan"];
+console.log(user2);
+var names = ["Devendra", "Aryan"];
+console.log(names);
